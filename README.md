@@ -2,6 +2,8 @@
 
 **mmorpg_store** — Chromium tabanlı, bağımsız çalışan ve herhangi bir masaüstü oyununa entegre edilebilir oyun içi mağaza modülü.
 
+https://github.com/user-attachments/assets/4fd1052f-817e-4bc7-9105-4702722ce8cd
+
 ---
 
 ## Proje Hakkında
