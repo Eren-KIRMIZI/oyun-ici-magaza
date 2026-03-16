@@ -59,12 +59,6 @@ Gereksinimler: Python 3.11+, MongoDB
 # Bağımlılıkları kur
 pip install -r requirements.txt
 
-# MongoDB başlat (Docker)
-docker run -d -p 27017:27017 mongo:7
-
-# İlk çalıştırmada DB'yi sıfırlamak istersen
-python reset_db.py
-
 # Uygulamayı başlat
 python launcher.py
 ```
